@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(9,21): error C2039: "filesystem": не является членом "std".
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(9,21): error C2878: filesystem: пространство имен или класс с таким именем не существует
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(33,2): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(33,6): error C2065: path: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(33,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "directoryPath"
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(33,11): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(77,2): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,20): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,13): error C2530: file: ссылки должны быть инициализированы
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,13): error C3531: file: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,18): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,43): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,24): error C3861: directory_iterator: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(79,57): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(94,19): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(94,23): error C3861: path: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(94,48): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(94,52): error C3861: is_directory: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(101,6): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(101,29): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(101,10): error C3861: create_directories: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(110,4): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(110,8): error C2065: path: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(110,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "filePath"
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(110,13): error C3861: filePath: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(111,29): error C2065: filePath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(117,7): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(117,18): error C2065: filePath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(117,28): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(117,66): error C2065: filePath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(123,31): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(123,35): error C3861: is_directory: идентификатор не найден
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(124,5): error C2653: fs: не является именем класса или пространства имен
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(124,16): error C2065: filePath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(124,26): error C2065: directoryPath: необъявленный идентификатор
+C:\myProjects\C++\File Sorter\file sorter\main.cpp(124,68): error C2065: filePath: необъявленный идентификатор
